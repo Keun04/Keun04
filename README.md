@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="left">Hello👋</h1>
+<h3 align="left">Interest</h3>
+<p align="left">
+  * WEB
+</p>
 
-<!--
-**Keun04/Keun04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Languages</h3>
+<p align="left"> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Collabotation Tools</h3>
+<p align:"left">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=keun04&show_icons=true&theme=radical&locale=en" alt="keun04" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keun04&show_icons=true&theme=radical&locale=en&layout=compact" alt="keun04" />
+</p>
