@@ -1,8 +1,8 @@
 <h1 align="left">Hello👋</h1>
 <h3 align="left">Interest</h3>
-<p align="left">
-  * WEB
-</p>
+<ul align="left">
+  <li>WEB</li>
+</ul>
 
 <h3 align="left">Languages</h3>
 <p align="left"> 
